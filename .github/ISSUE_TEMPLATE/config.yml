@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support and troubleshooting
+    url: https://standflow.app/support
+    about: Quick fixes for common issues.
+  - name: Email
+    url: mailto:hello@standflow.app
+    about: Questions, ideas, or anything else.
