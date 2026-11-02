@@ -22,7 +22,7 @@ body:
     id: standflow-version
     attributes:
       label: Standflow version
-      description: You can find
+      description: You can find it in Settings → About.
       placeholder: "1.2.0"
     validations:
       required: true
@@ -36,5 +36,5 @@ body:
   - type: textarea
     id: screenshots
     attributes:
-      label: Screenshots or rec
+      label: Screenshots or recordings.
       description: Optional, but they help a lot.
